@@ -78,6 +78,13 @@
 
 #### Method 1: Batch File (Recommended)
 ```bash
+# Open `Stock_data.xlsm`
+# Go to `Sheet1`, add your tickers
+Click on `Button 1`
+```
+
+#### Method 1: Batch File
+```bash
 # Double-click run_update.bat
 # Or run from command line:
 run_update.bat
