@@ -41,7 +41,7 @@
 
 ### Dashboard Preview
 
-![Dashboard](https://via.placeholder.com/800x400/2E75B6/FFFFFF?text=Excel+Dashboard+Preview)
+![Dashboard](https://raw.githubusercontent.com/omkararade/stock-portfolio-analyzer/master/Data/Screenshot%202026-01-13%20161356.png)
 
 *Professional Excel dashboard with black theme and conditional formatting*
 
