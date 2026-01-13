@@ -45,11 +45,109 @@
 
 *Professional Excel dashboard with black theme and conditional formatting*
 
-### Data Categories
+## 📊 Data Categories Covered
 
-![Data](https://via.placeholder.com/600x300/4CAF50/FFFFFF?text=Comprehensive+Stock+Data)
+The dashboard consolidates **50+ structured data points per stock**, organized into clear analytical categories for easy interpretation and decision-making.
 
-*40+ data points per stock including fundamentals, technicals, and ESG scores*
+### 🏷️ Identification
+- Ticker
+
+---
+
+### 💵 Market & Valuation
+- Current Price  
+- PE Ratio  
+- Market Cap  
+- Dividend Yield  
+
+---
+
+### 📄 Income Statement Metrics
+- Gross Profit  
+- Operating Income  
+- Net Income  
+
+---
+
+### 🏦 Balance Sheet Metrics
+- Total Cash  
+- Total Debt  
+- Debt to Equity  
+
+---
+
+### 💰 Cash Flow Metrics
+- Free Cash Flow  
+- Operating Cash Flow  
+
+---
+
+### 📈 Growth Metrics
+- Earnings Growth YoY  
+- Revenue Growth YoY  
+- Earnings QoQ Growth  
+- Revenue QoQ Growth  
+
+---
+
+### 📉 Technical Indicators
+- RSI (14)  
+- RSI Status  
+- SMA 20  
+- SMA 50  
+- SMA 200  
+- MACD  
+- Signal Line  
+
+---
+
+### 🧠 Analyst Coverage
+- Strong Buy  
+- Buy  
+- Hold  
+- Sell  
+- Strong Sell  
+- Total Analysts (Breakdown)  
+- Target Mean  
+- Target High  
+- Target Low  
+- Upside %  
+- Upside View  
+- Upside Bucket  
+
+---
+
+### 🌱 ESG (Environmental, Social, Governance)
+- ESG Total Score  
+- ESG Environment  
+- ESG Social  
+- ESG Governance  
+- ESG Percentile  
+- ESG Category  
+
+---
+
+### 📝 Manual ESG Assessment (Optional)
+- ESG Theme  
+- Manual ESG Score  
+- Confidence Level  
+- Assessment Criteria  
+- Review Date  
+- Analyst Notes  
+
+---
+
+### ⚠️ System & Diagnostics
+- Error Message  
+
+---
+
+### 📦 Output Summary
+All data categories are merged into a **single professionally formatted Excel dashboard** with:
+- Dark theme styling  
+- Conditional formatting  
+- Frozen headers and columns  
+- Analyst-ready structure  
 
 </div>
 
